@@ -16,14 +16,14 @@ The main interface includes four areas: the drawing area, standard patterns, sco
 
 Game Objective: Overlay the player's own connected lines onto the given background pattern, making the resulting pattern identical to the standard shape below.
 
-<img src=".\Images and Videos\0001.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0001.jpg" alt="0002" style="zoom:10%;" />
 
-<img src=".\Images and Videos\0002.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0002.jpg" alt="0002" style="zoom:10%;" />
 
-<img src=".\Images and Videos\0003.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0003.jpg" alt="0002" style="zoom:10%;" />
 
-<img src=".\Images and Videos\0004.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0004.jpg" alt="0002" style="zoom:10%;" />
 
-<img src=".\Images and Videos\0005.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0005.jpg" alt="0002" style="zoom:10%;" />
 
-<img src=".\Images and Videos\0006.jpg" alt="0002" style="zoom:25%;" />
+<img src=".\Images and Videos\0006.jpg" alt="0002" style="zoom:10%;" />
