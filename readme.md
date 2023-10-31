@@ -8,7 +8,7 @@ Shape-background discrimination refers to the ability to distinguish an object f
 
 ### Video Demo
 
-<video src=".\Images and Videos\Demo.mp4"></video>
+<video src=".\Images and Videos\Demo.mp4" />
 
 ### Interface
 
